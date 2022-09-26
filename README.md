@@ -1,4 +1,4 @@
-# kavyachowdary9999.github.io
+# README
 
 I have Developed my Personal Portfolio Website. The website is very user-friendly, and it has all the information that is asked for. I have 
 also added extra details that are not requested, i.e., a photo. It satisfied all the requirements, such as having a footer with a license under 
